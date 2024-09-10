@@ -8,6 +8,6 @@
         method: 'GET',
         headers: {
           accept: 'application/json',
-          Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNDY3Y2NmOWE1MTFjMjU4ZjYxZmZlMjlhOWMyODg1ZiIsIm5iZiI6MTcyNTcyNjg1Ny4zNjY4NDIsInN1YiI6IjY2ZGM3ZjVlOGUzODAyY2M0OGI5MjIxMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.A_aQpz3JZ5hrUA0LcerWRy25Ycd-routVuGWvPhOQfg'
+          Authorization: API_KEY
         }
       };
